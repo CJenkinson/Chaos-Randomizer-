@@ -1,3 +1,17 @@
+# UE4 Project directories to ignore
+
+Binaries/
+
+DerivedDataCache/
+
+Intermediate/
+
+Saved/
+
+Build/
+
+Plugins/
+
 # Visual Studio 2015 user specific files
 .vs/
 
